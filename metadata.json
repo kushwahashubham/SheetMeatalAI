@@ -1,0 +1,5 @@
+{
+  "name": "SheetMetalAI - AutoFab Suite",
+  "description": "Automated HVAC sheet metal fabrication tool. Converts Technical Data Sheet PDFs into production-ready DXF drawings and Cut Lists using Gemini AI and parametric geometry engines.",
+  "requestFramePermissions": []
+}
